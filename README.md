@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Yina D.</h1>
-<h3 align="center">A passionate Full-stack Developer from PH</h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75FF4&center=true&width=435&lines=Hi%2C+I'm+Yina+D.;Welcome+To+My+Profile" alt="Typing SVG" /></a>
+<h3>A passionate Full-stack Developer from PH</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arlenedacs&label=Profile%20views&color=0e75b6&style=flat" alt="arlenedacs" /> </p>
 
