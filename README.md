@@ -5,7 +5,7 @@
 
 
 
-- 💬 Ask me about **Python,Javascript,HTML,CSS and Java**
+- 💬 Ask me about **Python,Javascript,HTML,CSS and Java, PHP,**
 
 - 📫 How to reach me **dmkarina62@gmail.com**
 
